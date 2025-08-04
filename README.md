@@ -54,6 +54,12 @@ employee_data_manager/
 - Checks if records exist before attempting to list, update, or delete
 - Displays formatted output for better readability
 
+##How to Run
+
+```bash
+python employee_manager.py
+```
+
 ##Author
 
 - Yosef Mohtady
