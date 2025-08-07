@@ -51,6 +51,7 @@ employee_data_manager/
 
 - Prevents duplicate employee IDs
 - Validates that the salary is a numeric value
+- Validates that the email is a valid email
 - Checks if records exist before attempting to list, update, or delete
 - Displays formatted output for better readability
 
