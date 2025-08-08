@@ -2,7 +2,7 @@
 
 A simple Python-based command-line application to manage employee records using CSV file storage.
 
-##Project Description
+## Project Description
 
 This project is designed to manage employee information through a basic CLI (Command Line Interface).  
 It demonstrates core Python concepts such as:
@@ -13,7 +13,7 @@ It demonstrates core Python concepts such as:
 - Functions and Conditional Logic
 - Error Handling and Data Validation
 
-##Features
+## Features
 
 - **Add Employee**
 - **View All Employees**
@@ -30,14 +30,14 @@ Each employee has the following fields:
 - `Salary`
 - `Email`
 
-##How It Works
+## How It Works
 
 1. When the program starts, it loads employee data from `employees.csv` (if it exists).
 2. A menu is displayed for the user to interact with the system.
 3. Any changes (add/update/delete) are immediately saved to the CSV file.
 4. Data is persistent across program runs.
 
-##File Structure
+## File Structure
 
 ```
 employee_data_manager/
@@ -47,7 +47,7 @@ employee_data_manager/
 └── README.md               # Project documentation (this file)
 ```
 
-##Validation & Error Handling
+## Validation & Error Handling
 
 - Prevents duplicate employee IDs
 - Validates that the salary is a numeric value
@@ -55,13 +55,13 @@ employee_data_manager/
 - Checks if records exist before attempting to list, update, or delete
 - Displays formatted output for better readability
 
-##How to Run
+## How to Run
 
 ```bash
 python employee_manager.py
 ```
 
-##Author
+## Author
 
 - Yosef Mohtady
 - GitHub: [yousefmohtady1]
