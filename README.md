@@ -1,4 +1,4 @@
-#Employee Data Management System
+# Employee Data Management System
 
 A simple Python-based command-line application to manage employee records using CSV file storage.
 
